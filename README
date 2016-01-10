@@ -1,0 +1,15 @@
+== Email Delay Send ==
+
+Using Google Apps scripts this project allows a gmail user to schedule an email
+to be delivered at a later point.
+
+This project was previously know as Gmail Delay Send and hosted at:
+https://code.google.com/p/gmail-delay-send.
+
+With the turn down of Google Code and the illegal use of the name "Gmail" it has
+been changed to "Email Delay Send".
+
+Currently this project is not complete as the datejs library has been removed.
+This file will be updated when the project is ready for public consumption.
+
+NOTE: This is not an official Google product!
